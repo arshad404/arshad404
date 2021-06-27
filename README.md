@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshad</h1>
-<h3 align="center">A passionat developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad404&label=Profile%20views&color=0e75b6&style=flat" alt="arshad404" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mailtoarshad97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BbZUThavqdp7NuXGDKU8DKoStOSpIBfn/view?usp=sharing](https://drive.google.com/file/d/1BbZUThavqdp7NuXGDKU8DKoStOSpIBfn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BbZUThavqdp7NuXGDKU8DKoStOSpIBfn/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **I learn everyday.**
 
