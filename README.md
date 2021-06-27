@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [EAHome](https://github.com/arshad404/EAHome)
 
-- 🌱 I’m currently learning **Backend + Frontend(Using ReactJs) + Basic Devops**
+- 🌱 I’m currently learning **Backend + Frontend + Basic Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arshad404?tab=repositories](https://github.com/arshad404?tab=repositories)
 
