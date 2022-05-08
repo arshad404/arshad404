@@ -3,20 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad404&label=Profile%20views&color=0e75b6&style=flat" alt="arshad404" /> </p>
 
-- 🔭 I’m currently working on [EAHome](https://github.com/arshad404/EAHome)
-
-- 👨‍💻 All of my projects are available at [https://github.com/arshad404?tab=repositories](https://github.com/arshad404?tab=repositories)
-
 - 📝 I regularly write articles on [https://medium.com/@arshad97](https://medium.com/@arshad97)
 
-- 💬 Ask me about **Javascript, NodeJs, ReactJs, Databases**
-
 - 📫 How to reach me **mailtoarshad97@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BbZUThavqdp7NuXGDKU8DKoStOSpIBfn/view?usp=sharing](Resume)
-
-- ⚡ Fun fact **I learn everyday.**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zbyzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zbyzero" height="30" width="40" /></a>
