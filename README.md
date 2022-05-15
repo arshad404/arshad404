@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad404&label=Profile%20views&color=0e75b6&style=flat" alt="arshad404" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@arshad97](https://medium.com/@arshad97)
+- 📝 Sometimes I write here on [https://medium.com/@arshad97](https://medium.com/@arshad97)
 
 - 📫 How to reach me **mailtoarshad97@gmail.com**
 
